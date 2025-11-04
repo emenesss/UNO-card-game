@@ -1,6 +1,6 @@
 ## Introduction
 
-Développé par Yacine HAMMOUCHE, Marc-André GRETRY, Imane ESSAHLI.
+Développé par Yacine HAMMOUCHE, Marc-André GRETRY, Imane ESSALHI.
 
 Le Devoir Consiste a crée un projet de jeu de cartes inspiré de jeux 
 de type pêche (UNO, 8 americain) où plusieurs joueurs jouent à tour de rôle en tentant 
